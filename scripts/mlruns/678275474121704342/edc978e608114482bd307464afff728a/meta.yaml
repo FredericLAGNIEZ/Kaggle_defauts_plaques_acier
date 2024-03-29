@@ -1,0 +1,15 @@
+artifact_uri: file:///media/frederic/Echanges_Linux_Windows/GitHUb/defauts_acier/defauts_plaques_acier/scripts/mlruns/678275474121704342/edc978e608114482bd307464afff728a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '678275474121704342'
+lifecycle_stage: active
+run_id: edc978e608114482bd307464afff728a
+run_name: calm-carp-142
+run_uuid: edc978e608114482bd307464afff728a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711290573234
+status: 1
+tags: []
+user_id: frederic

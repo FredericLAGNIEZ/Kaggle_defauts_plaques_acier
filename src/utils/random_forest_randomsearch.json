@@ -1,0 +1,24 @@
+{
+    "RandomForestClassifier": {
+      "n_estimators": [100,200,300],
+      "criterion": ["gini", "entropy", "log_loss"],
+      "max_depth": [10, 20, null],
+      "min_samples_split": [2, 5, 10],
+      "min_samples_leaf": [1, 2, 4],
+      "min_weight_fraction_leaf": [0.0],
+      "max_features": ["sqrt", "log2", null],
+      "max_leaf_nodes": [null],
+      "min_impurity_decrease": [0.0],
+      "bootstrap": [true, false],
+      "oob_score": [false],
+      "n_jobs": [null],
+      "random_state": [null],
+      "verbose": [0],
+      "warm_start": [false],
+      "class_weight": [null, "balanced", "balanced_subsample"],
+      "ccp_alpha": [0.0],
+      "max_samples": [null]
+    }
+  }
+  
+  

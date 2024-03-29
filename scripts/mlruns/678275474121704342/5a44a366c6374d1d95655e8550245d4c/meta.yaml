@@ -1,0 +1,15 @@
+artifact_uri: file:///media/frederic/Echanges_Linux_Windows/GitHUb/defauts_acier/defauts_plaques_acier/scripts/mlruns/678275474121704342/5a44a366c6374d1d95655e8550245d4c/artifacts
+end_time: 1711289295508
+entry_point_name: ''
+experiment_id: '678275474121704342'
+lifecycle_stage: active
+run_id: 5a44a366c6374d1d95655e8550245d4c
+run_name: languid-shrew-660
+run_uuid: 5a44a366c6374d1d95655e8550245d4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711288749961
+status: 4
+tags: []
+user_id: frederic

@@ -1,0 +1,15 @@
+artifact_uri: file:///media/frederic/Echanges_Linux_Windows/GitHUb/defauts_acier/defauts_plaques_acier/scripts/mlruns/678275474121704342/a3f9d5f82c814baaade323beab0d8dcc/artifacts
+end_time: 1711288429978
+entry_point_name: ''
+experiment_id: '678275474121704342'
+lifecycle_stage: active
+run_id: a3f9d5f82c814baaade323beab0d8dcc
+run_name: worried-boar-43
+run_uuid: a3f9d5f82c814baaade323beab0d8dcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711288429960
+status: 3
+tags: []
+user_id: frederic
